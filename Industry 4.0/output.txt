@@ -1,0 +1,845 @@
+Press Q to quit
+
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 05 : Nothing to fix, waiting!
+Robot 06 : Nothing to fix, waiting!
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Production line is full, removing a random part from production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 03 : Arm broken!
+Robot 03 : Waiting for maintenance!
+Robot 01 : Production line is full, removing a random part from production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 04 : Detected a broken robot (03), adding it to broken robots list.
+Robot 04 : Notifying waiting fixers.
+Robot 05 : Fixer woke up, going back to work.
+Robot 05 : Fixed and waken up robot (03).
+Robot 03 : Fixed, going back to work.
+Robot 01 : Logic broken!
+Robot 01 : Waiting for maintenance!
+Robot 02 : Builder woke up, going back to work.
+Robot 04 : Detected a broken robot (01), adding it to broken robots list.
+Robot 04 : Notifying waiting fixers.
+Robot 06 : Fixer woke up, going back to work.
+Robot 06 : Fixed and waken up robot (01).
+Robot 01 : Fixed, going back to work.
+Robot 05 : Nothing to fix, waiting!
+Robot 02 : Builder woke up, going back to work.
+Robot 06 : Nothing to fix, waiting!
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Production line is full, removing a random part from production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Production line is full, removing a random part from production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 03 : Payload broken!
+Robot 03 : Waiting for maintenance!
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 04 : Detected a broken robot (03), adding it to broken robots list.
+Robot 04 : Notifying waiting fixers.
+Robot 05 : Fixer woke up, going back to work.
+Robot 05 : Fixed and waken up robot (03).
+Robot 03 : Fixed, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 02 : Builder attached some parts or relocated a completed robot.
+Robot 09 : Nothing to fix, waiting!
+Robot 05 : Nothing to fix, waiting!
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 03 : Arm broken!
+Robot 03 : Waiting for maintenance!
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 04 : Detected a broken robot (03), adding it to broken robots list.
+Robot 04 : Notifying waiting fixers.
+Robot 06 : Fixer woke up, going back to work.
+Robot 06 : Fixed and waken up robot (03).
+Robot 03 : Fixed, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 06 : Nothing to fix, waiting!
+Robot 01 : Production line is full, removing a random part from production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Production line is full, removing a random part from production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Production line is full, removing a random part from production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Production line is full, removing a random part from production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Payload broken!
+Robot 02 : Waiting for maintenance!
+Robot 04 : Detected a broken robot (02), adding it to broken robots list.
+Robot 04 : Notifying waiting fixers.
+Robot 09 : Fixer woke up, going back to work.
+Robot 09 : Fixed and waken up robot (02).
+Robot 02 : Fixed, going back to work.
+Robot 01 : Production line is full, removing a random part from production line.
+Robot 01 : Waking up waiting builders.
+Robot 09 : Nothing to fix, waiting!
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Production line is full, removing a random part from production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 02 : Builder attached some parts or relocated a completed robot.
+Robot 10 : Nothing to fix, waiting!
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Production line is full, removing a random part from production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Production line is full, removing a random part from production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 02 : Builder attached some parts or relocated a completed robot.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Production line is full, removing a random part from production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Logic broken!
+Robot 01 : Waiting for maintenance!
+Robot 03 : Detected a broken robot (01), adding it to broken robots list.
+Robot 03 : Notifying waiting fixers.
+Robot 05 : Fixer woke up, going back to work.
+Robot 05 : Fixed and waken up robot (01).
+Robot 01 : Fixed, going back to work.
+Robot 02 : Builder woke up, going back to work.
+Robot 05 : Nothing to fix, waiting!
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 03 : Payload broken!
+Robot 03 : Waiting for maintenance!
+Robot 04 : Detected a broken robot (03), adding it to broken robots list.
+Robot 04 : Notifying waiting fixers.
+Robot 06 : Fixer woke up, going back to work.
+Robot 01 : Production line is full, removing a random part from production line.
+Robot 06 : Fixed and waken up robot (03).
+Robot 01 : Waking up waiting builders.
+Robot 03 : Fixed, going back to work.
+Robot 02 : Builder woke up, going back to work.
+Robot 06 : Nothing to fix, waiting!
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Production line is full, removing a random part from production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 04 : Arm broken!
+Robot 04 : Waiting for maintenance!
+Robot 03 : Detected a broken robot (04), adding it to broken robots list.
+Robot 03 : Notifying waiting fixers.
+Robot 09 : Fixer woke up, going back to work.
+Robot 09 : Fixed and waken up robot (04).
+Robot 04 : Fixed, going back to work.
+Robot 01 : Production line is full, removing a random part from production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 09 : Nothing to fix, waiting!
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Production line is full, removing a random part from production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Production line is full, removing a random part from production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Production line is full, removing a random part from production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 03 : Arm broken!
+Robot 03 : Waiting for maintenance!
+Robot 04 : Detected a broken robot (03), adding it to broken robots list.
+Robot 04 : Notifying waiting fixers.
+Robot 10 : Fixer woke up, going back to work.
+Robot 10 : Fixed and waken up robot (03).
+Robot 03 : Fixed, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 02 : Builder attached some parts or relocated a completed robot.
+Robot 10 : Nothing to fix, waiting!
+Robot 01 : Arm broken!
+Robot 01 : Waiting for maintenance!
+Robot 02 : Builder woke up, going back to work.
+Robot 04 : Detected a broken robot (01), adding it to broken robots list.
+Robot 04 : Notifying waiting fixers.
+Robot 05 : Fixer woke up, going back to work.
+Robot 05 : Fixed and waken up robot (01).
+Robot 01 : Fixed, going back to work.
+Robot 02 : Builder woke up, going back to work.
+Robot 05 : Nothing to fix, waiting!
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 04 : Logic broken!
+Robot 04 : Waiting for maintenance!
+Robot 03 : Detected a broken robot (04), adding it to broken robots list.
+Robot 03 : Notifying waiting fixers.
+Robot 06 : Fixer woke up, going back to work.
+Robot 01 : Production line is full, removing a random part from production line.
+Robot 06 : Fixed and waken up robot (04).
+Robot 01 : Waking up waiting builders.
+Robot 04 : Fixed, going back to work.
+Robot 02 : Builder woke up, going back to work.
+Robot 06 : Nothing to fix, waiting!
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 04 : Payload broken!
+Robot 04 : Waiting for maintenance!
+Robot 01 : Production line is full, removing a random part from production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 03 : Detected a broken robot (04), adding it to broken robots list.
+Robot 03 : Notifying waiting fixers.
+Robot 09 : Fixer woke up, going back to work.
+Robot 09 : Fixed and waken up robot (04).
+Robot 04 : Fixed, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 09 : Nothing to fix, waiting!
+Robot 01 : Production line is full, removing a random part from production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Production line is full, removing a random part from production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Arm broken!
+Robot 02 : Waiting for maintenance!
+Robot 03 : Detected a broken robot (02), adding it to broken robots list.
+Robot 03 : Notifying waiting fixers.
+Robot 10 : Fixer woke up, going back to work.
+Robot 10 : Fixed and waken up robot (02).
+Robot 02 : Fixed, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 10 : Nothing to fix, waiting!
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Production line is full, removing a random part from production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Production line is full, removing a random part from production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Production line is full, removing a random part from production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 03 : Arm broken!
+Robot 03 : Waiting for maintenance!
+Robot 04 : Detected a broken robot (03), adding it to broken robots list.
+Robot 04 : Notifying waiting fixers.
+Robot 05 : Fixer woke up, going back to work.
+Robot 05 : Fixed and waken up robot (03).
+Robot 02 : Builder woke up, going back to work.
+Robot 03 : Fixed, going back to work.
+Robot 01 : Production line is full, removing a random part from production line.
+Robot 01 : Waking up waiting builders.
+Robot 05 : Nothing to fix, waiting!
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Production line is full, removing a random part from production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Production line is full, removing a random part from production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Production line is full, removing a random part from production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Production line is full, removing a random part from production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Production line is full, removing a random part from production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 03 : Payload broken!
+Robot 03 : Waiting for maintenance!
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Production line is full, removing a random part from production line.
+Robot 01 : Waking up waiting builders.
+Robot 04 : Detected a broken robot (03), adding it to broken robots list.
+Robot 04 : Notifying waiting fixers.
+Robot 06 : Fixer woke up, going back to work.
+Robot 06 : Fixed and waken up robot (03).
+Robot 03 : Fixed, going back to work.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 06 : Nothing to fix, waiting!
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Production line is full, removing a random part from production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Production line is full, removing a random part from production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Production line is full, removing a random part from production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Production line is full, removing a random part from production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Production line is full, removing a random part from production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Production line is full, removing a random part from production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Production line is full, removing a random part from production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Production line is full, removing a random part from production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Production line is full, removing a random part from production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Production line is full, removing a random part from production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Production line is full, removing a random part from production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Logic broken!
+Robot 01 : Waiting for maintenance!
+Robot 04 : Detected a broken robot (01), adding it to broken robots list.
+Robot 04 : Notifying waiting fixers.
+Robot 09 : Fixer woke up, going back to work.
+Robot 09 : Fixed and waken up robot (01).
+Robot 01 : Fixed, going back to work.
+Robot 02 : Builder woke up, going back to work.
+Robot 09 : Nothing to fix, waiting!
+Robot 01 : Production line is full, removing a random part from production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Production line is full, removing a random part from production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Production line is full, removing a random part from production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 04 : Logic broken!
+Robot 04 : Waiting for maintenance!
+Robot 03 : Detected a broken robot (04), adding it to broken robots list.
+Robot 03 : Notifying waiting fixers.
+Robot 10 : Fixer woke up, going back to work.
+Robot 10 : Fixed and waken up robot (04).
+Robot 04 : Fixed, going back to work.
+Robot 01 : Production line is full, removing a random part from production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 10 : Nothing to fix, waiting!
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Production line is full, removing a random part from production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Production line is full, removing a random part from production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Logic broken!
+Robot 01 : Waiting for maintenance!
+Robot 02 : Builder woke up, going back to work.
+Robot 03 : Detected a broken robot (01), adding it to broken robots list.
+Robot 03 : Notifying waiting fixers.
+Robot 05 : Fixer woke up, going back to work.
+Robot 05 : Fixed and waken up robot (01).
+Robot 01 : Fixed, going back to work.
+Robot 02 : Builder woke up, going back to work.
+Robot 05 : Nothing to fix, waiting!
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Production line is full, removing a random part from production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Production line is full, removing a random part from production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Production line is full, removing a random part from production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 04 : Payload broken!
+Robot 04 : Waiting for maintenance!
+Robot 03 : Detected a broken robot (04), adding it to broken robots list.
+Robot 03 : Notifying waiting fixers.
+Robot 06 : Fixer woke up, going back to work.
+Robot 06 : Fixed and waken up robot (04).
+Robot 04 : Fixed, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 06 : Nothing to fix, waiting!
+Robot 01 : Production line is full, removing a random part from production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 02 : Builder attached some parts or relocated a completed robot.
+Robot 04 : Arm broken!
+Robot 04 : Waiting for maintenance!
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 03 : Detected a broken robot (04), adding it to broken robots list.
+Robot 03 : Notifying waiting fixers.
+Robot 09 : Fixer woke up, going back to work.
+Robot 09 : Fixed and waken up robot (04).
+Robot 04 : Fixed, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 09 : Nothing to fix, waiting!
+Robot 01 : Production line is full, removing a random part from production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Production line is full, removing a random part from production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Production line is full, removing a random part from production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Production line is full, removing a random part from production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Production line is full, removing a random part from production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Payload broken!
+Robot 02 : Waiting for maintenance!
+Robot 04 : Detected a broken robot (02), adding it to broken robots list.
+Robot 04 : Notifying waiting fixers.
+Robot 10 : Fixer woke up, going back to work.
+Robot 10 : Fixed and waken up robot (02).
+Robot 02 : Fixed, going back to work.
+Robot 01 : Production line is full, removing a random part from production line.
+Robot 01 : Waking up waiting builders.
+Robot 10 : Nothing to fix, waiting!
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Production line is full, removing a random part from production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Arm broken!
+Robot 01 : Waiting for maintenance!
+Robot 04 : Detected a broken robot (01), adding it to broken robots list.
+Robot 04 : Notifying waiting fixers.
+Robot 05 : Fixer woke up, going back to work.
+Robot 05 : Fixed and waken up robot (01).
+Robot 01 : Fixed, going back to work.
+Robot 02 : Builder woke up, going back to work.
+Robot 05 : Nothing to fix, waiting!
+Robot 01 : Production line is full, removing a random part from production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Production line is full, removing a random part from production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Payload broken!
+Robot 01 : Waiting for maintenance!
+Robot 02 : Builder woke up, going back to work.
+Robot 04 : Detected a broken robot (01), adding it to broken robots list.
+Robot 04 : Notifying waiting fixers.
+Robot 06 : Fixer woke up, going back to work.
+Robot 06 : Fixed and waken up robot (01).
+Robot 01 : Fixed, going back to work.
+Robot 02 : Builder woke up, going back to work.
+Robot 06 : Nothing to fix, waiting!
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Production line is full, removing a random part from production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 04 : Arm broken!
+Robot 04 : Waiting for maintenance!
+Robot 03 : Detected a broken robot (04), adding it to broken robots list.
+Robot 03 : Notifying waiting fixers.
+Robot 01 : Supplying a random part on production line.
+Robot 09 : Fixer woke up, going back to work.
+Robot 09 : Fixed and waken up robot (04).
+Robot 04 : Fixed, going back to work.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 09 : Nothing to fix, waiting!
+Robot 04 : Payload broken!
+Robot 04 : Waiting for maintenance!
+Robot 01 : Arm broken!
+Robot 01 : Waiting for maintenance!
+Robot 02 : Builder woke up, going back to work.
+Robot 03 : Detected a broken robot (01), adding it to broken robots list.
+Robot 03 : Notifying waiting fixers.
+Robot 03 : Detected a broken robot (04), adding it to broken robots list.
+Robot 03 : Notifying waiting fixers.
+Robot 02 : Builder woke up, going back to work.
+Robot 10 : Fixer woke up, going back to work.
+Robot 10 : Fixed and waken up robot (01).
+Robot 05 : Fixer woke up, going back to work.
+Robot 01 : Fixed, going back to work.
+Robot 05 : Fixed and waken up robot (04).
+Robot 04 : Fixed, going back to work.
+Robot 02 : Builder woke up, going back to work.
+Robot 10 : Nothing to fix, waiting!
+Robot 01 : Payload broken!
+Robot 01 : Waiting for maintenance!
+Robot 05 : Nothing to fix, waiting!
+Robot 04 : Detected a broken robot (01), adding it to broken robots list.
+Robot 04 : Notifying waiting fixers.
+Robot 06 : Fixer woke up, going back to work.
+Robot 06 : Fixed and waken up robot (01).
+Robot 01 : Fixed, going back to work.
+Robot 02 : Builder woke up, going back to work.
+Robot 06 : Nothing to fix, waiting!
+Robot 01 : Production line is full, removing a random part from production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Production line is full, removing a random part from production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Production line is full, removing a random part from production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Production line is full, removing a random part from production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 04 : Logic broken!
+Robot 04 : Waiting for maintenance!
+Robot 01 : Production line is full, removing a random part from production line.
+Robot 01 : Waking up waiting builders.
+Robot 03 : Detected a broken robot (04), adding it to broken robots list.
+Robot 03 : Notifying waiting fixers.
+Robot 09 : Fixer woke up, going back to work.
+Robot 09 : Fixed and waken up robot (04).
+Robot 04 : Fixed, going back to work.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 09 : Nothing to fix, waiting!
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Production line is full, removing a random part from production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Production line is full, removing a random part from production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Production line is full, removing a random part from production line.
+Robot 01 : Waking up waiting builders.
+Robot 04 : Arm broken!
+Robot 04 : Waiting for maintenance!
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 03 : Detected a broken robot (04), adding it to broken robots list.
+Robot 03 : Notifying waiting fixers.
+Robot 10 : Fixer woke up, going back to work.
+Robot 10 : Fixed and waken up robot (04).
+Robot 04 : Fixed, going back to work.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Production line is full, removing a random part from production line.
+Robot 01 : Waking up waiting builders.
+Robot 10 : Nothing to fix, waiting!
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Production line is full, removing a random part from production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Production line is full, removing a random part from production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Production line is full, removing a random part from production line.
+Robot 01 : Waking up waiting builders.
+Robot 03 : Payload broken!
+Robot 03 : Waiting for maintenance!
+Robot 04 : Detected a broken robot (03), adding it to broken robots list.
+Robot 04 : Notifying waiting fixers.
+Robot 05 : Fixer woke up, going back to work.
+Robot 05 : Fixed and waken up robot (03).
+Robot 03 : Fixed, going back to work.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Payload broken!
+Robot 01 : Waiting for maintenance!
+Robot 04 : Detected a broken robot (01), adding it to broken robots list.
+Robot 04 : Notifying waiting fixers.
+Robot 06 : Fixer woke up, going back to work.
+Robot 06 : Fixed and waken up robot (01).
+Robot 01 : Fixed, going back to work.
+Robot 05 : Nothing to fix, waiting!
+Robot 02 : Builder woke up, going back to work.
+Robot 06 : Nothing to fix, waiting!
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Production line is full, removing a random part from production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Production line is full, removing a random part from production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Production line is full, removing a random part from production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Production line is full, removing a random part from production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Supplying a random part on production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
+Robot 01 : Production line is full, removing a random part from production line.
+Robot 01 : Waking up waiting builders.
+Robot 02 : Builder woke up, going back to work.
