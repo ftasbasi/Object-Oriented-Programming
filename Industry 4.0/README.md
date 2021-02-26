@@ -3,7 +3,7 @@ When building , I employed the object-oriented design principles. I applied Fact
 I also implemented reflection for accessing/modifying private attributes of a class. Details are provided in description [pdf](https://github.com/ftasbasi/Object-Oriented-Programming/blob/main/Industry%204.0/Industry%204.0%20Description.pdf).
 
 # this is a *markdown* document
-[![](https://img.youtube.com/vi/VID/0.jpg)](https://youtu.be/ksgf5WloD3s)
+[![video](https://img.youtube.com/vi/VID/0.jpg)](https://youtu.be/ksgf5WloD3s)
 
 ![alt text](https://github.com/ftasbasi/Object-Oriented-Programming/blob/main/Industry%204.0/line1.png?raw=true)
 ![alt text](https://github.com/ftasbasi/Object-Oriented-Programming/blob/main/Industry%204.0/line2.png?raw=true)
