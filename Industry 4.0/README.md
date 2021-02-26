@@ -6,6 +6,6 @@ I also implemented reflection for accessing/modifying private attributes of a cl
 ![alt text](https://github.com/ftasbasi/Object-Oriented-Programming/blob/main/Industry%204.0/line2.png?raw=true)
 ![alt text](https://github.com/ftasbasi/Object-Oriented-Programming/blob/main/Industry%204.0/line3.png?raw=true)
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=https://youtu.be/ksgf5WloD3s)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=ksgf5WloD3s)
 
 
