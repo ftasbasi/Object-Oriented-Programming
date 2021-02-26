@@ -93,19 +93,19 @@ public class SIS {
 
         //findCourse(5710443);
         //createHistogram(5710443,20201);
-        //createTranscript(2041853);
-   /*     System.out.println(getGrade(2041853,9999991,20192));
-        System.out.println(getGrade(2041853,9999991,20201));
-        System.out.println(getGrade(2041853,9999991,20211));
-        updateExam(2041853,9999991,"Final",10.0);
-        System.out.println(getGrade(2041853,9999991,20192));
-        System.out.println(getGrade(2041853,9999991,20201));
-        System.out.println(getGrade(2041853,9999991,20211));
+        //createTranscript(2041888);
+   /*     System.out.println(getGrade(2041888,9999991,20192));
+        System.out.println(getGrade(2041888,9999991,20201));
+        System.out.println(getGrade(2041888,9999991,20211));
+        updateExam(2041888,9999991,"Final",10.0);
+        System.out.println(getGrade(2041888,9999991,20192));
+        System.out.println(getGrade(2041888,9999991,20201));
+        System.out.println(getGrade(2041888,9999991,20211));
 
     */
-        //updateExam(2041853,9999991,"Final",30.0);
-        //System.out.println(getGrade(2041853,9999991,20201));
-        // createTranscript(2041853);
+        //updateExam(2041888,9999991,"Final",30.0);
+        //System.out.println(getGrade(2041888,9999991,20201));
+        // createTranscript(2041888);
     }
 
     public double getGrade(int studentID, int courseCode, int year){
