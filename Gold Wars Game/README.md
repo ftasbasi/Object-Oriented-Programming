@@ -4,7 +4,7 @@ I applied Decorator pattern. The IA is not be aware of the fact that it is being
 Details are provided in description [pdf](https://github.com/ftasbasi/Object-Oriented-Programming/blob/main/Gold%20Wars%20Game/GoldWars_Description.pdf).
 
 #  YOUTUBE LINK
-[![](http://img.youtube.com/vi/ksgf5WloD3s/0.jpg)](http://www.youtube.com/watch?v=ksgf5WloD3s "Industry 4.0")
+[![](http://img.youtube.com/vi/9jtuz8DZxZA/0.jpg)](http://www.youtube.com/watch?v=9jtuz8DZxZA "GoldWars")
 
 # SAMPLE SCREENSHOT
 
