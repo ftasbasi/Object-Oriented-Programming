@@ -3,4 +3,9 @@ I applied Factory and Abstract Factory patterns. Countries do not know what type
 I applied Decorator pattern. The IA is not be aware of the fact that it is being decorated by other parts of the application.
 Details are provided in description [pdf](https://github.com/ftasbasi/Object-Oriented-Programming/blob/main/Gold%20Wars%20Game/GoldWars_Description.pdf).
 
+#  YOUTUBE LINK
+[![](http://img.youtube.com/vi/ksgf5WloD3s/0.jpg)](http://www.youtube.com/watch?v=ksgf5WloD3s "Industry 4.0")
+
+# SAMPLE SCREENSHOT
+
 ![alt text](https://github.com/ftasbasi/Object-Oriented-Programming/blob/main/Gold%20Wars%20Game/GoldWars.png?raw=true)
