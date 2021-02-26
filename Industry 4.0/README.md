@@ -7,7 +7,4 @@ I also implemented reflection for accessing/modifying private attributes of a cl
 ![alt text](https://github.com/ftasbasi/Object-Oriented-Programming/blob/main/Industry%204.0/line2.png?raw=true)
 ![alt text](https://github.com/ftasbasi/Object-Oriented-Programming/blob/main/Industry%204.0/line3.png?raw=true)
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ksgf5WloD3s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
+[![](http://img.youtube.com/vi/ksgf5WloD3s/0.jpg)](http://www.youtube.com/watch?v=ksgf5WloD3s "Industry 4.0")
