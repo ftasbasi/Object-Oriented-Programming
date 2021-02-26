@@ -2,13 +2,13 @@ This is an animation game about a smart factory where different types of robots 
 When building , I employed the object-oriented design principles. I applied Factory and Abstract Factory patterns together with threading primitives: synchronized, wait, notify, notifyAll.
 I also implemented reflection for accessing/modifying private attributes of a class. Details are provided in description [pdf](https://github.com/ftasbasi/Object-Oriented-Programming/blob/main/Industry%204.0/Industry%204.0%20Description.pdf).
 
+# this is a *markdown* document
+[![](https://img.youtube.com/vi/VID/0.jpg)](https://youtu.be/ksgf5WloD3s)
+
 ![alt text](https://github.com/ftasbasi/Object-Oriented-Programming/blob/main/Industry%204.0/line1.png?raw=true)
 ![alt text](https://github.com/ftasbasi/Object-Oriented-Programming/blob/main/Industry%204.0/line2.png?raw=true)
 ![alt text](https://github.com/ftasbasi/Object-Oriented-Programming/blob/main/Industry%204.0/line3.png?raw=true)
-# this is a *markdown* document
 
-<iframe  title="YouTube video player" width="480" height="390" src="http://www.youtube.com/watch?v=TheVideoID?autoplay=1" frameborder="0" allowfullscreen></iframe>
 
-with a **youtube** video embedded
 
 
